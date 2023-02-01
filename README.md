@@ -15,9 +15,11 @@
 * I am a third year Computer Engineering Student at McMaster, with an expected graduation date in 2024!
 * Currently, I am looking for internship/CO-OP opportunities for the summer of 2023!
 * Some of my educational interests include: 
-  - Making/doodling with front-end interface through HTML/CSS (I'm currently working on a project related to GUI!)
+  - Making/doodling with front-end interface through HTML/CSS. 
+  - Creating and managing various API projects. You can check my recent weather app API under my reposintories!
   - Discovering fundamentals of UI/UX through figma.
-  - Learning about databases and cloud software such as AWS, ORACLE etc.
+  - Earning Snowflake Badges (currently finishing up my data management workshop badge!)
+  - Learning about databases and cloud software such as AWS, Microsoft Azure etc.
 * I am proficient in the following languages:
   - Python
   - HTML
@@ -27,7 +29,7 @@
   - SQL
   - LaTeX
   - Verilog
-* Currently, I am working towards finishing my AWS Certified Cloud Practitioner Licence! 
+* Currently, I am working towards finishing my AWS Certified Cloud Practitioner Licence
 * Aside from studying my degree, I have a part time job where I write sports articles for McMaster's own newspaper!
 * My hobbies include:
   - Watching/ playing football (soccer)
