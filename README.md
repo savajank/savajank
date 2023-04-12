@@ -13,7 +13,7 @@
 ## About me
 
 * I am a third year Computer Engineering Student at McMaster, with an expected graduation date in 2024!
-* Currently, I am looking for internship/CO-OP opportunities for the summer of 2023!
+* Very soon I'll be starting my Co-Op position at Sanofi as a Software and Data Engineer!
 * Some of my educational interests include: 
   - Making/doodling with front-end interface through HTML/CSS. 
   - Creating and managing various API projects. You can check my recent weather app API under my reposintories!
