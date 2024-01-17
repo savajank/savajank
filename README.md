@@ -12,8 +12,8 @@
 
 ## About me
 
-* I am a third year Computer Engineering Student at McMaster, with an expected graduation date in 2025!
-* Currently, I'm working at Sanofi in their AI Centre of Excellence in Toronto as a Data and Software Engineer. 
+* I have recently finished my third year as a computer engineering student at McMaster, with an expected graduation date in 2025!
+* Currently, I'm working at Sanofi in their AI Centre of Excellence in Toronto as a Data and Software Engineer on a Co-Op until April 2024. 
 * Some of my educational interests include:
   - Manipulating and creating end-to-end data pipelines using Streamlit and Snowflake
   - Making/doodling with front-end interface through HTML/CSS and React. 
