@@ -12,29 +12,28 @@
 
 ## About me
 
-* I am a third year Computer Engineering Student at McMaster, with an expected graduation date in 2024!
-* Very soon I'll be starting my Co-Op position at Sanofi as a Software and Data Engineer!
-* Some of my educational interests include: 
-  - Making/doodling with front-end interface through HTML/CSS. 
+* I am a third year Computer Engineering Student at McMaster, with an expected graduation date in 2025!
+* Currently, I'm working at Sanofi in their AI Centre of Excellence in Toronto as a Data and Software Engineer. 
+* Some of my educational interests include:
+  - Manipulating and creating end-to-end data pipelines using Streamlit and Snowflake
+  - Making/doodling with front-end interface through HTML/CSS and React. 
   - Creating and managing various API projects. You can check my recent weather app API under my reposintories!
-  - Discovering fundamentals of UI/UX through figma.
-  - Earning Snowflake Badges (currently finishing up my data management workshop badge!)
+  - Earning Snowflake Badges
   - Learning about databases and cloud software such as AWS, Microsoft Azure etc.
 * I am proficient in the following languages:
   - Python
-  - HTML
-  - CSS
   - C++
-  - JavaScript
+  - Java
   - SQL
   - LaTeX
   - Verilog
-* Currently, I am working towards finishing my AWS Certified Cloud Practitioner Licence
-* Aside from studying my degree, I have a part time job where I write sports articles for McMaster's own newspaper!
+* Currently, I am working towards finishing my AWS Certified Cloud Practitioner Licence.
 * My hobbies include:
   - Watching/ playing football (soccer)
   - F1
   - Reading novels
+* I'm always open to new Data Engineering opportunities, wherever they may be!
+
 
 Add my LinkedIn! [Sava Jankovic](https://www.linkedin.com/in/sava-jankovic-b2165b182/)
 
