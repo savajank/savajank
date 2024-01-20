@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">Hey! My name is Sava, and I am a 3rd year student at McMaster University currently studying Computer Engineering. Welcome to my GitHub!</h4>
+<h4 align="center">Hey! My name is Sava, and I am a future 4th (currently on co-op) year student at McMaster University currently studying Computer Engineering. Welcome to my GitHub!</h4>
 
 
 ## About me
