@@ -9,7 +9,7 @@
 
 <h4 align="center">Hey! My name is Sava, and I am a future 4th (currently on co-op) year student at McMaster University currently studying Computer Engineering. Welcome to my GitHub!</h4>
 
-<h4> P.S: A lot of repositories that I have worked on in the past couple of years are private for either NDA or personal reasons, reach out to me if you'd like to know more about them!</h4>
+<h4> P.S: A lot of repositories that I have worked on in the past couple of years are private for either NDA or personal reasons, reach out to me if you'd like to know more about their specific concepts!</h4>
 ## About me
 
 * I have recently finished my third year as a computer engineering student at McMaster, with an expected graduation date in 2025!
