@@ -9,8 +9,8 @@
 
 <h4 align="center">Hey! My name is Sava, and I am a future 4th (currently on co-op) year student at McMaster University currently studying Computer Engineering. Welcome to my GitHub!</h4>
 
-<h4> P.S: A lot of repositories that I have worked on in the past couple of years are private for either NDA or personal reasons, reach out to me if you'd like to know more about their specific concepts!</h4>
-## About me
+
+<h2>About me</h2> 
 
 * I have recently finished my third year as a computer engineering student at McMaster, with an expected graduation date in 2025!
 * Currently, I'm working at Sanofi in their AI Centre of Excellence in Toronto as a Data and Software Engineer on a Co-Op until April 2024. 
